@@ -1,0 +1,9 @@
+2025-05-09 19:43:52,353 - db_helper, INFO - Fetching expenses for date: 2024-08-08
+2025-05-09 19:43:52,780 - db_helper, INFO - Connection Successful
+2025-05-09 19:43:52,788 - db_helper, INFO - Connection closed
+2025-05-09 19:43:52,810 - db_helper, INFO - Fetching expenses for date: 9999-08-15
+2025-05-09 19:43:52,930 - db_helper, INFO - Connection Successful
+2025-05-09 19:43:52,931 - db_helper, INFO - Connection closed
+2025-05-09 19:43:52,933 - db_helper, INFO - Fetching expense summary from 9999-08-01 to 9999-12-31
+2025-05-09 19:43:52,953 - db_helper, INFO - Connection Successful
+2025-05-09 19:43:52,954 - db_helper, INFO - Connection closed

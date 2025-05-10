@@ -72,6 +72,7 @@ A modern, full-stack **Expense Management System** built with a **Streamlit fron
 
 ## 🗂️ Project Structure
 
+![Expense Tracker Screenshot](https://github.com/pierredeveloper/expense-management-system/blob/9b602939b7f342291982a0f48d372a7be8ecff49/project_structure.png)
 ---
 
 ## 🛠️ Setup Instructions
@@ -98,6 +99,6 @@ streamlit run frontend/app.py
 🧾 Conclusion
 The Expense Management System is a comprehensive and scalable solution for tracking and analyzing 
 expenses in real time. Whether you're a student managing a budget or a business professional 
-monitoring company spending, or for personal budget and expenses. this tool provides the structure and flexibility to keep your finances.
+monitoring company spending, or for personal budget and expenses. this tool provides the structure and flexibility to keep your finances
 organized. This system provides a clean, responsive, and easy-to-use platform for managing personal or business
 expenses in real time. 🚀

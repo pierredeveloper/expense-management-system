@@ -1,0 +1,30 @@
+2025-05-11 09:25:13,918 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2025-05-11 09:25:14,145 - db_helper - INFO - Connection Successful
+2025-05-11 09:25:14,243 - db_helper - INFO - Connection closed
+2025-05-11 09:26:05,423 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2025-05-11 09:26:05,435 - db_helper - INFO - Connection Successful
+2025-05-11 09:26:05,436 - db_helper - INFO - Connection closed
+2025-05-11 10:54:22,413 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-11 10:54:22,667 - db_helper - INFO - Connection Successful
+2025-05-11 10:54:22,986 - db_helper - INFO - Connection closed
+2025-05-11 10:54:23,016 - db_helper - INFO - Fetching monthly expense analytics.
+2025-05-11 10:54:23,097 - db_helper - INFO - Connection Successful
+2025-05-11 10:54:23,426 - db_helper - INFO - Connection closed
+2025-05-11 11:23:56,568 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-11 11:23:56,713 - db_helper - INFO - Connection Successful
+2025-05-11 11:23:56,730 - db_helper - INFO - Connection closed
+2025-05-11 11:32:32,059 - db_helper - INFO - Fetching expenses for date: 2024-08-05
+2025-05-11 11:32:32,217 - db_helper - INFO - Connection Successful
+2025-05-11 11:32:32,226 - db_helper - INFO - Connection closed
+2025-05-11 11:32:40,161 - db_helper - INFO - Fetching expenses for date: 2024-08-15
+2025-05-11 11:32:40,279 - db_helper - INFO - Connection Successful
+2025-05-11 11:32:40,293 - db_helper - INFO - Connection closed
+2025-05-11 22:00:59,268 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-05-11 22:01:01,323 - db_helper - INFO - Connection Successful
+2025-05-11 22:01:01,771 - db_helper - INFO - Connection closed
+2025-05-11 22:01:03,702 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2025-05-11 22:01:03,856 - db_helper - INFO - Connection Successful
+2025-05-11 22:01:04,104 - db_helper - INFO - Connection closed
+2025-05-11 22:01:15,262 - db_helper - INFO - Fetching monthly expense analytics.
+2025-05-11 22:01:15,415 - db_helper - INFO - Connection Successful
+2025-05-11 22:01:15,476 - db_helper - INFO - Connection closed

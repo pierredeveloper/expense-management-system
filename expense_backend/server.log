@@ -1,0 +1,494 @@
+2025-04-27 22:05:22,790 - db_helper, INFO - fetch_expenses_for_date called with 2024-09-30
+2025-04-27 22:05:22,889 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-27 22:06:55,989 - db_helper, INFO - fetch_expenses_for_date called with 2024-09-15
+2025-04-27 22:06:56,000 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching all records from the 'expenses' table
+Connection Successful
+Connection closed
+Fetching all records from the 'expenses' table
+Connection Successful
+Connection closed
+Fetching all records from the 'expenses' table
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-15
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-15
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-09-30
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-30-09
+Connection Successful
+Error occurred: 1525 (HY000): Incorrect DATE value: '2024-30-09'
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Deleting expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Inserting expense for 2024-09-30 with amount: 1000.0, category: Rent
+Connection Successful
+Connection closed
+Inserting expense for 2024-09-30 with amount: 250.0, category: Food
+Connection Successful
+Connection closed
+Inserting expense for 2024-09-30 with amount: 40.0, category: Entertainment
+Connection Successful
+Connection closed
+Inserting expense for 2024-09-30 with amount: 100.0, category: Shopping
+Connection Successful
+Connection closed
+Inserting expense for 2024-09-30 with amount: 20.0, category: Other
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Deleting expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Inserting expense for 2024-09-30 with amount: 1000.0, category: Rent
+Connection Successful
+Connection closed
+Inserting expense for 2024-09-30 with amount: 250.0, category: Food
+Connection Successful
+Connection closed
+Inserting expense for 2024-09-30 with amount: 40.0, category: Entertainment
+Connection Successful
+Connection closed
+Inserting expense for 2024-09-30 with amount: 100.0, category: Shopping
+Connection Successful
+Connection closed
+Inserting expense for 2024-09-30 with amount: 20.0, category: Other
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-09-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-09-30
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-09-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-09-30
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-09-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching all records from the 'expenses' table
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching all records from the 'expenses' table
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-09-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-05
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching all records from the 'expenses' table
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-02
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-02
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-02
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-02
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-02
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-02
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-09-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching monthly expense analytics.
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-30
+Connection Successful
+Connection closed

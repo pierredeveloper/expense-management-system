@@ -1,0 +1,746 @@
+2025-04-27 22:19:19,501 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-27 22:20:41,229 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 22:20:50,369 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 22:20:58,134 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-28
+2025-04-27 22:21:32,375 - db_helper, INFO - insert_expenses called with date 2024-08-28, amount: 200.0, category: Shopping, notes: Bought a baby yoda
+2025-04-27 22:21:32,615 - db_helper, INFO - insert_expenses called with date 2024-08-28, amount: 150.0, category: Food, notes: Eat samosa chat
+2025-04-27 22:26:19,111 - db_helper, INFO - delete_expense_for_date called with 2024-08-28
+2025-04-27 22:26:19,516 - db_helper, INFO - insert_expenses called with date 2024-08-28, amount: 200.0, category: Shopping, notes: Bought a baby yoda
+2025-04-27 22:26:19,708 - db_helper, INFO - insert_expenses called with date 2024-08-28, amount: 150.0, category: Food, notes: Eat samosa chat
+2025-04-27 22:59:40,522 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:14:38,264 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:14:54,505 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:16:28,465 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:20:10,666 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:20:41,930 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:22:10,498 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:27:50,669 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:28:21,679 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:28:31,960 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-02
+2025-04-27 23:28:37,087 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-03
+2025-04-27 23:28:41,571 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-04
+2025-04-27 23:28:44,835 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-05
+2025-04-27 23:31:08,818 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-05
+2025-04-27 23:31:20,704 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:31:26,977 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-02
+2025-04-27 23:31:30,292 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:31:53,127 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:32:48,399 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:32:56,261 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-02
+2025-04-27 23:32:59,373 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-03
+2025-04-27 23:33:02,956 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-04
+2025-04-27 23:33:13,333 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-05
+2025-04-27 23:33:16,388 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-06
+2025-04-27 23:33:20,335 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-07
+2025-04-27 23:33:24,422 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-08
+2025-04-27 23:33:33,404 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-27 23:33:42,198 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-28
+2025-04-27 23:33:49,349 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-03
+2025-04-27 23:33:53,651 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-04
+2025-04-27 23:35:52,367 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-04
+2025-04-27 23:36:49,616 - db_helper, INFO - delete_expense_for_date called with 2024-08-04
+2025-04-27 23:36:49,890 - db_helper, INFO - insert_expenses called with date 2024-08-04, amount: 200.0, category: Shopping, notes: Bought a baby yoda
+2025-04-27 23:36:50,138 - db_helper, INFO - insert_expenses called with date 2024-08-04, amount: 150.0, category: Food, notes: Eat samosa chat
+2025-04-27 23:37:00,510 - db_helper, INFO - delete_expense_for_date called with 2024-08-04
+2025-04-27 23:37:00,846 - db_helper, INFO - insert_expenses called with date 2024-08-04, amount: 200.0, category: Shopping, notes: Bought a baby yoda
+2025-04-27 23:37:01,122 - db_helper, INFO - insert_expenses called with date 2024-08-04, amount: 150.0, category: Food, notes: Eat samosa chat
+2025-04-27 23:39:00,447 - db_helper, INFO - delete_expense_for_date called with 2024-08-04
+2025-04-27 23:39:00,680 - db_helper, INFO - insert_expenses called with date 2024-08-04, amount: 200.0, category: Shopping, notes: Bought a baby yoda
+2025-04-27 23:39:00,920 - db_helper, INFO - insert_expenses called with date 2024-08-04, amount: 150.0, category: Food, notes: Eat samosa chat
+2025-04-27 23:39:01,172 - db_helper, INFO - insert_expenses called with date 2024-08-04, amount: 25.0, category: Food, notes: Lunch
+2025-04-27 23:39:01,340 - db_helper, INFO - insert_expenses called with date 2024-08-04, amount: 200.0, category: Shopping, notes: Home supplies
+2025-04-27 23:39:01,708 - db_helper, INFO - insert_expenses called with date 2024-08-04, amount: 10.0, category: Other, notes: Parking
+2025-04-27 23:39:22,694 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-04
+2025-04-27 23:39:33,888 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-05
+2025-04-27 23:39:38,230 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-06
+2025-04-27 23:39:44,568 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-07
+2025-04-27 23:39:49,136 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-08
+2025-04-27 23:40:17,543 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-09
+2025-04-27 23:40:20,472 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-10
+2025-04-27 23:40:23,424 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-14
+2025-04-27 23:40:26,325 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-27 23:42:57,124 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:44:04,971 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:44:13,505 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-02
+2025-04-27 23:44:30,208 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-07
+2025-04-27 23:44:44,048 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-08
+2025-04-27 23:44:47,720 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-06
+2025-04-27 23:44:51,575 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-05
+2025-04-27 23:44:54,911 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-04
+2025-04-27 23:44:58,303 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-03
+2025-04-27 23:45:01,786 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-02
+2025-04-27 23:45:05,832 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:45:09,359 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-09
+2025-04-27 23:45:19,238 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:56:22,664 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:56:26,984 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-07
+2025-04-27 23:56:31,241 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-08
+2025-04-27 23:57:34,133 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:57:38,792 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-07
+2025-04-27 23:57:43,430 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-08
+2025-04-27 23:58:26,854 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-27 23:58:30,144 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-06
+2025-04-27 23:58:32,550 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-07
+2025-04-27 23:58:35,887 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-08
+2025-04-27 23:58:39,078 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-09
+2025-04-28 00:03:58,750 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-09
+2025-04-28 00:04:04,005 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-08
+2025-04-28 00:04:07,189 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-07
+2025-04-28 00:04:10,407 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-10
+2025-04-28 00:04:13,690 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-11
+2025-04-28 00:04:18,277 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-12
+2025-04-28 00:04:21,221 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:04:27,090 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-17
+2025-04-28 00:04:29,872 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:04:34,055 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-28
+2025-04-28 00:04:38,360 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 00:05:07,487 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-06
+2025-04-28 00:05:10,390 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-07
+2025-04-28 00:05:13,725 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-08
+2025-04-28 00:05:19,518 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:07:31,149 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:07:31,303 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 10.0, category: Shopping, notes: Bought potatoes
+2025-04-28 00:07:31,535 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 20.0, category: Shopping, notes: Bought hair oild
+2025-04-28 00:07:32,026 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 15.0, category: Food, notes: Eat pizza
+2025-04-28 00:09:24,231 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 00:09:30,031 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:09:50,796 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:09:50,954 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 10.0, category: Shopping, notes: Bought potatoes
+2025-04-28 00:09:51,250 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 10.0, category: Shopping, notes: 
+2025-04-28 00:09:51,500 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 20.0, category: Shopping, notes: Bought hair oild
+2025-04-28 00:09:51,902 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 15.0, category: Food, notes: Eat pizza
+2025-04-28 00:10:08,535 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:10:08,668 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 10.0, category: Shopping, notes: Bought potatoes
+2025-04-28 00:10:08,885 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 20.0, category: Shopping, notes: Bought hair oild
+2025-04-28 00:10:09,119 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 15.0, category: Food, notes: Eat pizza
+2025-04-28 00:10:09,370 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 10.0, category: Shopping, notes: Bought potatoes
+2025-04-28 00:10:14,153 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-14
+2025-04-28 00:10:16,879 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:10:37,504 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:10:37,676 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 10.0, category: Shopping, notes: Bought potatoes
+2025-04-28 00:10:37,864 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 20.0, category: Shopping, notes: Bought hair oild
+2025-04-28 00:10:38,065 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 15.0, category: Food, notes: Eat pizza
+2025-04-28 00:10:38,283 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 10.0, category: Shopping, notes: Bought potatoes
+2025-04-28 00:10:44,321 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 00:10:46,464 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:11:41,989 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:11:42,343 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 10.0, category: Shopping, notes: Bought potatoes
+2025-04-28 00:11:42,678 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 10.0, category: Shopping, notes: Bought potatoes
+2025-04-28 00:11:43,188 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 20.0, category: Shopping, notes: Bought hair oild
+2025-04-28 00:11:43,380 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 15.0, category: Food, notes: Eat pizza
+2025-04-28 00:12:22,446 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:12:22,604 - db_helper, INFO - delete_expense_for_date called with 2024-08-15
+2025-04-28 00:12:23,125 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 10.0, category: Shopping, notes: Bought potatoes
+2025-04-28 00:12:23,428 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 20.0, category: Shopping, notes: Bought hair oild
+2025-04-28 00:12:23,637 - db_helper, INFO - insert_expenses called with date 2024-08-15, amount: 15.0, category: Food, notes: Eat pizza
+2025-04-28 00:12:28,663 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-16
+2025-04-28 00:12:31,137 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:12:37,474 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-16
+2025-04-28 00:19:33,748 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-16
+2025-04-28 00:20:01,826 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-17
+2025-04-28 00:20:09,991 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-16
+2025-04-28 00:21:42,943 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-16
+2025-04-28 00:21:43,103 - db_helper, INFO - delete_expense_for_date called with 2024-08-16
+2025-04-28 00:21:48,159 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-17
+2025-04-28 00:21:51,925 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-16
+2025-04-28 00:21:56,586 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-18
+2025-04-28 00:22:01,117 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-28
+2025-04-28 00:22:09,705 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-06
+2025-04-28 00:22:12,605 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-15
+2025-04-28 00:22:14,951 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-16
+2025-04-28 00:22:18,512 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-04
+2025-04-28 00:22:23,408 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 10:42:19,496 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 10:53:05,849 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 10:53:48,555 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 10:57:03,742 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 10:58:32,649 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 10:59:58,240 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 11:51:12,454 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 11:51:14,751 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 11:51:20,030 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 11:51:20,254 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 11:54:13,702 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 11:54:16,782 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 11:54:16,947 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 11:55:52,487 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 11:55:54,951 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 11:55:55,670 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 11:58:09,877 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 11:58:12,456 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 11:58:12,600 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 12:00:18,923 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 12:00:21,161 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 12:00:21,311 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 12:02:39,236 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 12:02:41,177 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 12:02:41,326 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 12:03:24,007 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 12:03:26,150 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 12:03:26,275 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 16:08:39,868 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 16:17:48,739 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 16:17:55,401 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 16:17:55,905 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 16:18:52,491 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 16:18:59,260 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 16:19:11,885 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 16:19:54,174 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 16:19:58,533 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 16:20:02,117 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 16:20:02,396 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 16:22:45,478 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 16:53:16,468 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 16:53:51,643 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 19:16:00,019 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 19:16:11,296 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 19:16:11,501 - db_helper, INFO - fetch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-04-28 19:16:24,437 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 19:17:02,673 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 19:17:07,064 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 19:19:27,668 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 19:19:32,625 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 19:21:22,253 - db_helper, INFO - fetch_expenses_for_date called with 2024-08-01
+2025-04-28 19:24:30,374 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 19:24:30,540 - db_helper, INFO - Connection Successful
+2025-04-28 19:24:30,555 - db_helper, INFO - Connection closed
+2025-04-28 19:24:38,691 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 19:24:38,849 - db_helper, INFO - Connection Successful
+2025-04-28 19:24:38,851 - db_helper, INFO - Connection closed
+2025-04-28 19:24:38,871 - db_helper, INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2025-04-28 19:24:38,996 - db_helper, INFO - Connection Successful
+2025-04-28 19:24:39,018 - db_helper, INFO - Connection closed
+2025-04-28 19:27:21,983 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 19:27:22,130 - db_helper, INFO - Connection Successful
+2025-04-28 19:27:22,153 - db_helper, INFO - Connection closed
+2025-04-28 19:30:04,589 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 19:30:04,747 - db_helper, INFO - Connection Successful
+2025-04-28 19:30:04,758 - db_helper, INFO - Connection closed
+2025-04-28 19:32:23,611 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 19:32:23,895 - db_helper, INFO - Connection Successful
+2025-04-28 19:32:23,932 - db_helper, INFO - Connection closed
+2025-04-28 19:32:24,379 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 19:32:24,624 - db_helper, INFO - Connection Successful
+2025-04-28 19:32:24,626 - db_helper, INFO - Connection closed
+2025-04-28 19:32:24,646 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 19:32:24,799 - db_helper, INFO - Connection Successful
+2025-04-28 19:32:24,800 - db_helper, INFO - Connection closed
+2025-04-28 19:35:58,139 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 19:35:58,393 - db_helper, INFO - Connection Successful
+2025-04-28 19:35:58,395 - db_helper, INFO - Connection closed
+2025-04-28 19:35:58,429 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 19:35:58,555 - db_helper, INFO - Connection Successful
+2025-04-28 19:35:58,576 - db_helper, INFO - Connection closed
+2025-04-28 19:35:58,603 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 19:35:58,696 - db_helper, INFO - Connection Successful
+2025-04-28 19:35:58,697 - db_helper, INFO - Connection closed
+2025-04-28 19:36:53,533 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 19:36:53,678 - db_helper, INFO - Connection Successful
+2025-04-28 19:36:53,695 - db_helper, INFO - Connection closed
+2025-04-28 19:37:35,548 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 19:37:35,827 - db_helper, INFO - Connection Successful
+2025-04-28 19:37:35,829 - db_helper, INFO - Connection closed
+2025-04-28 19:39:44,047 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 19:39:44,385 - db_helper, INFO - Connection Successful
+2025-04-28 19:39:44,387 - db_helper, INFO - Connection closed
+2025-04-28 19:39:44,419 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 19:39:44,568 - db_helper, INFO - Connection Successful
+2025-04-28 19:39:44,571 - db_helper, INFO - Connection closed
+2025-04-28 19:39:44,597 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 19:39:44,708 - db_helper, INFO - Connection Successful
+2025-04-28 19:39:44,709 - db_helper, INFO - Connection closed
+2025-04-28 20:10:24,967 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 20:10:25,122 - db_helper, INFO - Connection Successful
+2025-04-28 20:10:25,212 - db_helper, INFO - Connection closed
+2025-04-28 20:10:25,231 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 20:10:25,521 - db_helper, INFO - Connection Successful
+2025-04-28 20:10:25,522 - db_helper, INFO - Connection closed
+2025-04-28 23:35:38,895 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 23:35:42,753 - db_helper, INFO - Connection Successful
+2025-04-28 23:35:43,042 - db_helper, INFO - Connection closed
+2025-04-28 23:35:43,239 - db_helper, INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2025-04-28 23:35:43,412 - db_helper, INFO - Connection Successful
+2025-04-28 23:35:43,535 - db_helper, INFO - Connection closed
+2025-04-28 23:35:44,921 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 23:35:45,121 - db_helper, INFO - Connection Successful
+2025-04-28 23:35:45,122 - db_helper, INFO - Connection closed
+2025-04-28 23:45:28,794 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 23:45:35,921 - db_helper, INFO - Connection Successful
+2025-04-28 23:45:36,840 - db_helper, INFO - Connection closed
+2025-04-28 23:45:37,134 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 23:45:37,596 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 23:45:37,901 - db_helper, INFO - Connection Successful
+2025-04-28 23:45:37,928 - db_helper, INFO - Connection Successful
+2025-04-28 23:45:37,931 - db_helper, INFO - Connection closed
+2025-04-28 23:45:38,023 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 23:45:38,391 - db_helper, INFO - Connection closed
+2025-04-28 23:45:38,574 - db_helper, INFO - Connection Successful
+2025-04-28 23:45:38,664 - db_helper, INFO - Connection closed
+2025-04-28 23:45:53,576 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 23:45:54,040 - db_helper, INFO - Connection Successful
+2025-04-28 23:45:54,043 - db_helper, INFO - Connection closed
+2025-04-28 23:45:54,152 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 23:45:54,546 - db_helper, INFO - Connection Successful
+2025-04-28 23:45:54,617 - db_helper, INFO - Connection closed
+2025-04-28 23:51:06,832 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 23:51:07,192 - db_helper, INFO - Connection Successful
+2025-04-28 23:51:07,194 - db_helper, INFO - Connection closed
+2025-04-28 23:54:45,136 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 23:54:45,379 - db_helper, INFO - Connection Successful
+2025-04-28 23:54:45,390 - db_helper, INFO - Connection closed
+2025-04-28 23:54:45,412 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 23:54:45,576 - db_helper, INFO - Connection Successful
+2025-04-28 23:54:45,578 - db_helper, INFO - Connection closed
+2025-04-28 23:57:03,736 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 23:57:03,987 - db_helper, INFO - Connection Successful
+2025-04-28 23:57:03,990 - db_helper, INFO - Connection closed
+2025-04-28 23:57:04,010 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 23:57:04,134 - db_helper, INFO - Connection Successful
+2025-04-28 23:57:04,135 - db_helper, INFO - Connection closed
+2025-04-28 23:59:07,205 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 23:59:07,350 - db_helper, INFO - Connection Successful
+2025-04-28 23:59:07,351 - db_helper, INFO - Connection closed
+2025-04-28 23:59:07,445 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-28 23:59:07,594 - db_helper, INFO - Connection Successful
+2025-04-28 23:59:07,596 - db_helper, INFO - Connection closed
+2025-04-28 23:59:07,617 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-28 23:59:07,760 - db_helper, INFO - Connection Successful
+2025-04-28 23:59:07,762 - db_helper, INFO - Connection closed
+2025-04-29 00:02:48,513 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:02:48,874 - db_helper, INFO - Connection Successful
+2025-04-29 00:02:48,876 - db_helper, INFO - Connection closed
+2025-04-29 00:02:48,907 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:02:49,043 - db_helper, INFO - Connection Successful
+2025-04-29 00:02:49,047 - db_helper, INFO - Connection closed
+2025-04-29 00:02:49,072 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:02:49,199 - db_helper, INFO - Connection Successful
+2025-04-29 00:02:49,200 - db_helper, INFO - Connection closed
+2025-04-29 00:05:50,469 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:05:50,866 - db_helper, INFO - Connection Successful
+2025-04-29 00:05:50,878 - db_helper, INFO - Connection closed
+2025-04-29 00:05:50,919 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:05:51,007 - db_helper, INFO - Connection Successful
+2025-04-29 00:05:51,043 - db_helper, INFO - Connection closed
+2025-04-29 00:05:51,064 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:05:51,339 - db_helper, INFO - Connection Successful
+2025-04-29 00:05:51,341 - db_helper, INFO - Connection closed
+2025-04-29 00:10:17,847 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:10:18,131 - db_helper, INFO - Connection Successful
+2025-04-29 00:10:18,133 - db_helper, INFO - Connection closed
+2025-04-29 00:10:18,168 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:10:18,287 - db_helper, INFO - Connection Successful
+2025-04-29 00:10:18,289 - db_helper, INFO - Connection closed
+2025-04-29 00:10:18,311 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:10:18,404 - db_helper, INFO - Connection Successful
+2025-04-29 00:10:18,405 - db_helper, INFO - Connection closed
+2025-04-29 00:15:55,924 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:15:56,179 - db_helper, INFO - Connection Successful
+2025-04-29 00:15:56,181 - db_helper, INFO - Connection closed
+2025-04-29 00:15:56,211 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:15:56,334 - db_helper, INFO - Connection Successful
+2025-04-29 00:15:56,336 - db_helper, INFO - Connection closed
+2025-04-29 00:15:56,352 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:15:56,438 - db_helper, INFO - Connection Successful
+2025-04-29 00:15:56,440 - db_helper, INFO - Connection closed
+2025-04-29 00:18:04,199 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:18:04,473 - db_helper, INFO - Connection Successful
+2025-04-29 00:18:04,475 - db_helper, INFO - Connection closed
+2025-04-29 00:18:04,501 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:18:04,617 - db_helper, INFO - Connection Successful
+2025-04-29 00:18:04,623 - db_helper, INFO - Connection closed
+2025-04-29 00:18:04,645 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:18:04,731 - db_helper, INFO - Connection Successful
+2025-04-29 00:18:04,747 - db_helper, INFO - Connection closed
+2025-04-29 00:21:12,688 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:21:12,967 - db_helper, INFO - Connection Successful
+2025-04-29 00:21:12,972 - db_helper, INFO - Connection closed
+2025-04-29 00:21:12,993 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:21:13,095 - db_helper, INFO - Connection Successful
+2025-04-29 00:21:13,096 - db_helper, INFO - Connection closed
+2025-04-29 00:22:51,059 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:22:51,266 - db_helper, INFO - Connection Successful
+2025-04-29 00:22:51,272 - db_helper, INFO - Connection closed
+2025-04-29 00:22:51,295 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:22:51,400 - db_helper, INFO - Connection Successful
+2025-04-29 00:22:51,402 - db_helper, INFO - Connection closed
+2025-04-29 00:23:34,243 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:23:34,433 - db_helper, INFO - Connection Successful
+2025-04-29 00:23:34,451 - db_helper, INFO - Connection closed
+2025-04-29 00:23:34,471 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:23:34,596 - db_helper, INFO - Connection Successful
+2025-04-29 00:23:34,599 - db_helper, INFO - Connection closed
+2025-04-29 00:24:19,493 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:24:19,693 - db_helper, INFO - Connection Successful
+2025-04-29 00:24:19,696 - db_helper, INFO - Connection closed
+2025-04-29 00:24:19,714 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:24:19,863 - db_helper, INFO - Connection Successful
+2025-04-29 00:24:19,865 - db_helper, INFO - Connection closed
+2025-04-29 00:24:58,665 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:24:58,926 - db_helper, INFO - Connection Successful
+2025-04-29 00:24:58,928 - db_helper, INFO - Connection closed
+2025-04-29 00:24:58,950 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:24:59,058 - db_helper, INFO - Connection Successful
+2025-04-29 00:24:59,064 - db_helper, INFO - Connection closed
+2025-04-29 00:25:43,055 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:25:43,284 - db_helper, INFO - Connection Successful
+2025-04-29 00:25:43,291 - db_helper, INFO - Connection closed
+2025-04-29 00:25:43,315 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:25:43,417 - db_helper, INFO - Connection Successful
+2025-04-29 00:25:43,418 - db_helper, INFO - Connection closed
+2025-04-29 00:26:09,485 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:26:09,644 - db_helper, INFO - Connection Successful
+2025-04-29 00:26:09,646 - db_helper, INFO - Connection closed
+2025-04-29 00:26:09,673 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:26:09,775 - db_helper, INFO - Connection Successful
+2025-04-29 00:26:09,788 - db_helper, INFO - Connection closed
+2025-04-29 00:26:09,806 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:26:09,930 - db_helper, INFO - Connection Successful
+2025-04-29 00:26:09,931 - db_helper, INFO - Connection closed
+2025-04-29 00:26:23,063 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:26:23,230 - db_helper, INFO - Connection Successful
+2025-04-29 00:26:23,243 - db_helper, INFO - Connection closed
+2025-04-29 00:26:23,263 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:26:23,413 - db_helper, INFO - Connection Successful
+2025-04-29 00:26:23,415 - db_helper, INFO - Connection closed
+2025-04-29 00:30:42,810 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:30:43,121 - db_helper, INFO - Connection Successful
+2025-04-29 00:30:43,193 - db_helper, INFO - Connection closed
+2025-04-29 00:30:43,217 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:30:43,330 - db_helper, INFO - Connection Successful
+2025-04-29 00:30:43,332 - db_helper, INFO - Connection closed
+2025-04-29 00:35:20,867 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:35:21,149 - db_helper, INFO - Connection Successful
+2025-04-29 00:35:21,152 - db_helper, INFO - Connection closed
+2025-04-29 00:35:21,181 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:35:21,294 - db_helper, INFO - Connection Successful
+2025-04-29 00:35:21,297 - db_helper, INFO - Connection closed
+2025-04-29 00:43:23,788 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:43:23,999 - db_helper, INFO - Connection Successful
+2025-04-29 00:43:24,001 - db_helper, INFO - Connection closed
+2025-04-29 00:43:24,028 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:43:24,228 - db_helper, INFO - Connection Successful
+2025-04-29 00:43:24,230 - db_helper, INFO - Connection closed
+2025-04-29 00:43:24,256 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:43:24,348 - db_helper, INFO - Connection Successful
+2025-04-29 00:43:24,350 - db_helper, INFO - Connection closed
+2025-04-29 00:43:45,906 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:43:46,212 - db_helper, INFO - Connection Successful
+2025-04-29 00:43:46,218 - db_helper, INFO - Connection closed
+2025-04-29 00:43:46,244 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:43:46,352 - db_helper, INFO - Connection Successful
+2025-04-29 00:43:46,353 - db_helper, INFO - Connection closed
+2025-04-29 00:45:35,587 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:45:35,761 - db_helper, INFO - Connection Successful
+2025-04-29 00:45:35,775 - db_helper, INFO - Connection closed
+2025-04-29 00:45:35,796 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:45:35,944 - db_helper, INFO - Connection Successful
+2025-04-29 00:45:35,946 - db_helper, INFO - Connection closed
+2025-04-29 00:46:00,307 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:46:00,536 - db_helper, INFO - Connection Successful
+2025-04-29 00:46:00,562 - db_helper, INFO - Connection closed
+2025-04-29 00:46:00,592 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:46:00,698 - db_helper, INFO - Connection Successful
+2025-04-29 00:46:00,700 - db_helper, INFO - Connection closed
+2025-04-29 00:46:03,918 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:46:04,090 - db_helper, INFO - Connection Successful
+2025-04-29 00:46:04,092 - db_helper, INFO - Connection closed
+2025-04-29 00:46:04,119 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:46:04,222 - db_helper, INFO - Connection Successful
+2025-04-29 00:46:04,224 - db_helper, INFO - Connection closed
+2025-04-29 00:46:17,571 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:46:17,820 - db_helper, INFO - Connection Successful
+2025-04-29 00:46:17,822 - db_helper, INFO - Connection closed
+2025-04-29 00:46:17,841 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:46:17,949 - db_helper, INFO - Connection Successful
+2025-04-29 00:46:17,951 - db_helper, INFO - Connection closed
+2025-04-29 00:46:30,314 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:46:30,566 - db_helper, INFO - Connection Successful
+2025-04-29 00:46:30,569 - db_helper, INFO - Connection closed
+2025-04-29 00:46:30,589 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:46:30,709 - db_helper, INFO - Connection Successful
+2025-04-29 00:46:30,711 - db_helper, INFO - Connection closed
+2025-04-29 00:49:31,370 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:49:31,590 - db_helper, INFO - Connection Successful
+2025-04-29 00:49:31,612 - db_helper, INFO - Connection closed
+2025-04-29 00:49:31,637 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:49:31,756 - db_helper, INFO - Connection Successful
+2025-04-29 00:49:31,766 - db_helper, INFO - Connection closed
+2025-04-29 00:51:19,174 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:51:19,409 - db_helper, INFO - Connection Successful
+2025-04-29 00:51:19,411 - db_helper, INFO - Connection closed
+2025-04-29 00:51:19,434 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:51:19,579 - db_helper, INFO - Connection Successful
+2025-04-29 00:51:19,594 - db_helper, INFO - Connection closed
+2025-04-29 00:52:46,901 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 00:52:47,167 - db_helper, INFO - Connection Successful
+2025-04-29 00:52:47,180 - db_helper, INFO - Connection closed
+2025-04-29 00:52:47,203 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:52:47,312 - db_helper, INFO - Connection Successful
+2025-04-29 00:52:47,314 - db_helper, INFO - Connection closed
+2025-04-29 00:53:00,976 - db_helper, INFO - Fetching expenses for date: 2024-08-02
+2025-04-29 00:53:01,129 - db_helper, INFO - Connection Successful
+2025-04-29 00:53:01,131 - db_helper, INFO - Connection closed
+2025-04-29 00:53:01,153 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:53:01,239 - db_helper, INFO - Connection Successful
+2025-04-29 00:53:01,241 - db_helper, INFO - Connection closed
+2025-04-29 00:53:07,000 - db_helper, INFO - Fetching expenses for date: 2024-08-03
+2025-04-29 00:53:07,115 - db_helper, INFO - Connection Successful
+2025-04-29 00:53:07,134 - db_helper, INFO - Connection closed
+2025-04-29 00:53:07,153 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:53:07,262 - db_helper, INFO - Connection Successful
+2025-04-29 00:53:07,264 - db_helper, INFO - Connection closed
+2025-04-29 00:53:10,576 - db_helper, INFO - Fetching expenses for date: 2024-08-03
+2025-04-29 00:53:10,734 - db_helper, INFO - Connection Successful
+2025-04-29 00:53:10,736 - db_helper, INFO - Connection closed
+2025-04-29 00:58:09,712 - db_helper, INFO - Fetching expenses for date: 2024-08-03
+2025-04-29 00:58:10,044 - db_helper, INFO - Connection Successful
+2025-04-29 00:58:10,122 - db_helper, INFO - Connection closed
+2025-04-29 00:58:10,148 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 00:58:10,403 - db_helper, INFO - Connection Successful
+2025-04-29 00:58:10,427 - db_helper, INFO - Connection closed
+2025-04-29 00:58:10,450 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:58:10,711 - db_helper, INFO - Connection Successful
+2025-04-29 00:58:10,712 - db_helper, INFO - Connection closed
+2025-04-29 00:59:03,663 - db_helper, INFO - Fetching expenses for date: 2024-08-03
+2025-04-29 00:59:03,803 - db_helper, INFO - Connection Successful
+2025-04-29 00:59:03,809 - db_helper, INFO - Connection closed
+2025-04-29 00:59:03,826 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 00:59:04,019 - db_helper, INFO - Connection Successful
+2025-04-29 00:59:04,044 - db_helper, INFO - Connection closed
+2025-04-29 00:59:04,077 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:59:04,178 - db_helper, INFO - Connection Successful
+2025-04-29 00:59:04,179 - db_helper, INFO - Connection closed
+2025-04-29 00:59:31,839 - db_helper, INFO - Fetching expenses for date: 2024-08-03
+2025-04-29 00:59:32,053 - db_helper, INFO - Connection Successful
+2025-04-29 00:59:32,055 - db_helper, INFO - Connection closed
+2025-04-29 00:59:32,074 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 00:59:32,512 - db_helper, INFO - Connection Successful
+2025-04-29 00:59:32,527 - db_helper, INFO - Connection closed
+2025-04-29 00:59:32,552 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 00:59:32,691 - db_helper, INFO - Connection Successful
+2025-04-29 00:59:32,693 - db_helper, INFO - Connection closed
+2025-04-29 01:00:04,200 - db_helper, INFO - Fetching expenses for date: 2024-08-03
+2025-04-29 01:00:04,437 - db_helper, INFO - Connection Successful
+2025-04-29 01:00:04,440 - db_helper, INFO - Connection closed
+2025-04-29 01:00:04,470 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 01:00:04,572 - db_helper, INFO - Connection Successful
+2025-04-29 01:00:04,574 - db_helper, INFO - Connection closed
+2025-04-29 01:00:04,592 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:00:04,683 - db_helper, INFO - Connection Successful
+2025-04-29 01:00:04,685 - db_helper, INFO - Connection closed
+2025-04-29 01:00:37,643 - db_helper, INFO - Fetching expenses for date: 2024-08-03
+2025-04-29 01:00:38,020 - db_helper, INFO - Connection Successful
+2025-04-29 01:00:38,023 - db_helper, INFO - Connection closed
+2025-04-29 01:00:38,044 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 01:00:38,216 - db_helper, INFO - Connection Successful
+2025-04-29 01:00:38,220 - db_helper, INFO - Connection closed
+2025-04-29 01:00:38,244 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:00:38,358 - db_helper, INFO - Connection Successful
+2025-04-29 01:00:38,360 - db_helper, INFO - Connection closed
+2025-04-29 01:04:10,998 - db_helper, INFO - Fetching expenses for date: 2024-08-03
+2025-04-29 01:04:11,352 - db_helper, INFO - Connection Successful
+2025-04-29 01:04:11,355 - db_helper, INFO - Connection closed
+2025-04-29 01:04:11,375 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 01:04:11,503 - db_helper, INFO - Connection Successful
+2025-04-29 01:04:11,532 - db_helper, INFO - Connection closed
+2025-04-29 01:04:11,558 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:04:11,699 - db_helper, INFO - Connection Successful
+2025-04-29 01:04:11,700 - db_helper, INFO - Connection closed
+2025-04-29 01:07:38,845 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 01:07:39,320 - db_helper, INFO - Connection Successful
+2025-04-29 01:07:39,508 - db_helper, INFO - Connection closed
+2025-04-29 01:07:39,526 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:07:39,629 - db_helper, INFO - Connection Successful
+2025-04-29 01:07:39,631 - db_helper, INFO - Connection closed
+2025-04-29 01:07:43,476 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 01:07:43,597 - db_helper, INFO - Connection Successful
+2025-04-29 01:07:43,598 - db_helper, INFO - Connection closed
+2025-04-29 01:07:43,615 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 01:07:43,711 - db_helper, INFO - Connection Successful
+2025-04-29 01:07:43,717 - db_helper, INFO - Connection closed
+2025-04-29 01:07:43,736 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:07:43,816 - db_helper, INFO - Connection Successful
+2025-04-29 01:07:43,817 - db_helper, INFO - Connection closed
+2025-04-29 01:08:03,543 - db_helper, INFO - Fetching expenses for date: 2024-08-06
+2025-04-29 01:08:03,716 - db_helper, INFO - Connection Successful
+2025-04-29 01:08:03,718 - db_helper, INFO - Connection closed
+2025-04-29 01:08:03,739 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:08:03,854 - db_helper, INFO - Connection Successful
+2025-04-29 01:08:03,860 - db_helper, INFO - Connection closed
+2025-04-29 01:08:06,717 - db_helper, INFO - Fetching expenses for date: 2024-08-06
+2025-04-29 01:08:06,858 - db_helper, INFO - Connection Successful
+2025-04-29 01:08:06,860 - db_helper, INFO - Connection closed
+2025-04-29 01:08:06,879 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 01:08:06,987 - db_helper, INFO - Connection Successful
+2025-04-29 01:08:06,990 - db_helper, INFO - Connection closed
+2025-04-29 01:08:07,009 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:08:07,108 - db_helper, INFO - Connection Successful
+2025-04-29 01:08:07,115 - db_helper, INFO - Connection closed
+2025-04-29 01:09:24,585 - db_helper, INFO - Fetching expenses for date: 2024-08-06
+2025-04-29 01:09:24,849 - db_helper, INFO - Connection Successful
+2025-04-29 01:09:24,853 - db_helper, INFO - Connection closed
+2025-04-29 01:09:24,881 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:09:24,986 - db_helper, INFO - Connection Successful
+2025-04-29 01:09:24,998 - db_helper, INFO - Connection closed
+2025-04-29 01:09:41,694 - db_helper, INFO - Fetching expenses for date: 2024-08-06
+2025-04-29 01:09:41,825 - db_helper, INFO - Connection Successful
+2025-04-29 01:09:41,827 - db_helper, INFO - Connection closed
+2025-04-29 01:09:41,843 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 01:09:41,966 - db_helper, INFO - Connection Successful
+2025-04-29 01:09:41,968 - db_helper, INFO - Connection closed
+2025-04-29 01:09:41,990 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:09:42,072 - db_helper, INFO - Connection Successful
+2025-04-29 01:09:42,073 - db_helper, INFO - Connection closed
+2025-04-29 01:11:08,082 - db_helper, INFO - Fetching expenses for date: 2024-08-06
+2025-04-29 01:11:08,315 - db_helper, INFO - Connection Successful
+2025-04-29 01:11:08,318 - db_helper, INFO - Connection closed
+2025-04-29 01:11:08,335 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:11:08,438 - db_helper, INFO - Connection Successful
+2025-04-29 01:11:08,445 - db_helper, INFO - Connection closed
+2025-04-29 01:11:13,933 - db_helper, INFO - Fetching expenses for date: 2024-08-06
+2025-04-29 01:11:14,105 - db_helper, INFO - Connection Successful
+2025-04-29 01:11:14,109 - db_helper, INFO - Connection closed
+2025-04-29 01:11:14,127 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 01:11:14,221 - db_helper, INFO - Connection Successful
+2025-04-29 01:11:14,223 - db_helper, INFO - Connection closed
+2025-04-29 01:11:14,243 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:11:14,332 - db_helper, INFO - Connection Successful
+2025-04-29 01:11:14,334 - db_helper, INFO - Connection closed
+2025-04-29 01:13:33,607 - db_helper, INFO - Fetching expenses for date: 2024-08-06
+2025-04-29 01:13:33,743 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:33,744 - db_helper, INFO - Connection closed
+2025-04-29 01:13:33,762 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 01:13:33,887 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:33,889 - db_helper, INFO - Connection closed
+2025-04-29 01:13:33,916 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:13:33,998 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:33,999 - db_helper, INFO - Connection closed
+2025-04-29 01:13:34,664 - db_helper, INFO - Fetching expenses for date: 2024-08-06
+2025-04-29 01:13:34,756 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:34,759 - db_helper, INFO - Connection closed
+2025-04-29 01:13:34,775 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 01:13:34,863 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:34,872 - db_helper, INFO - Connection closed
+2025-04-29 01:13:34,892 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:13:34,995 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:34,997 - db_helper, INFO - Connection closed
+2025-04-29 01:13:43,629 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 01:13:43,836 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:43,838 - db_helper, INFO - Connection closed
+2025-04-29 01:13:43,865 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:13:44,004 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:44,006 - db_helper, INFO - Connection closed
+2025-04-29 01:13:46,712 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 01:13:46,913 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:46,916 - db_helper, INFO - Connection closed
+2025-04-29 01:13:46,937 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 01:13:47,031 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:47,033 - db_helper, INFO - Connection closed
+2025-04-29 01:13:47,051 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:13:47,137 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:47,138 - db_helper, INFO - Connection closed
+2025-04-29 01:13:57,560 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 01:13:57,707 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:57,712 - db_helper, INFO - Connection closed
+2025-04-29 01:13:57,739 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:13:57,862 - db_helper, INFO - Connection Successful
+2025-04-29 01:13:57,864 - db_helper, INFO - Connection closed
+2025-04-29 01:19:58,675 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 01:19:58,862 - db_helper, INFO - Connection Successful
+2025-04-29 01:19:58,863 - db_helper, INFO - Connection closed
+2025-04-29 01:19:58,892 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 01:19:58,993 - db_helper, INFO - Connection Successful
+2025-04-29 01:19:58,996 - db_helper, INFO - Connection closed
+2025-04-29 01:19:59,026 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 01:19:59,134 - db_helper, INFO - Connection Successful
+2025-04-29 01:19:59,136 - db_helper, INFO - Connection closed
+2025-04-29 13:17:19,877 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 13:17:20,033 - db_helper, INFO - Connection Successful
+2025-04-29 13:17:20,212 - db_helper, INFO - Connection closed
+2025-04-29 13:17:20,263 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 13:17:20,363 - db_helper, INFO - Connection Successful
+2025-04-29 13:17:20,385 - db_helper, INFO - Connection closed
+2025-04-29 13:17:28,020 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 13:17:28,119 - db_helper, INFO - Connection Successful
+2025-04-29 13:17:28,121 - db_helper, INFO - Connection closed
+2025-04-29 13:17:28,137 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-29 13:17:28,218 - db_helper, INFO - Connection Successful
+2025-04-29 13:17:28,220 - db_helper, INFO - Connection closed
+2025-04-29 13:17:28,245 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 13:17:28,325 - db_helper, INFO - Connection Successful
+2025-04-29 13:17:28,327 - db_helper, INFO - Connection closed
+2025-04-29 13:17:37,218 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 13:17:37,295 - db_helper, INFO - Connection Successful
+2025-04-29 13:17:37,297 - db_helper, INFO - Connection closed
+2025-04-29 13:17:37,312 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 13:17:37,398 - db_helper, INFO - Connection Successful
+2025-04-29 13:17:37,401 - db_helper, INFO - Connection closed
+2025-04-29 13:17:54,260 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-29 13:17:54,337 - db_helper, INFO - Connection Successful
+2025-04-29 13:17:54,339 - db_helper, INFO - Connection closed
+2025-04-29 13:17:54,353 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-29 13:17:54,434 - db_helper, INFO - Connection Successful
+2025-04-29 13:17:54,436 - db_helper, INFO - Connection closed
+2025-04-30 16:53:34,329 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-30 16:53:34,492 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-30 16:53:34,590 - db_helper, INFO - Connection Successful
+2025-04-30 16:53:34,591 - db_helper, INFO - Connection Successful
+2025-04-30 16:53:34,815 - db_helper, INFO - Connection closed
+2025-04-30 16:53:34,815 - db_helper, INFO - Connection closed
+2025-04-30 16:53:34,908 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-30 16:53:34,912 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-30 16:53:35,035 - db_helper, INFO - Connection Successful
+2025-04-30 16:53:35,055 - db_helper, INFO - Connection Successful
+2025-04-30 16:53:35,178 - db_helper, INFO - Connection closed
+2025-04-30 16:53:35,178 - db_helper, INFO - Connection closed
+2025-04-30 16:53:36,677 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-30 16:53:36,759 - db_helper, INFO - Connection Successful
+2025-04-30 16:53:36,760 - db_helper, INFO - Connection closed
+2025-04-30 16:53:36,789 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-30 16:53:36,882 - db_helper, INFO - Connection Successful
+2025-04-30 16:53:36,884 - db_helper, INFO - Connection closed
+2025-04-30 16:53:38,744 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-30 16:53:38,830 - db_helper, INFO - Connection Successful
+2025-04-30 16:53:38,836 - db_helper, INFO - Connection closed
+2025-04-30 16:53:39,039 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-30 16:53:39,119 - db_helper, INFO - Connection Successful
+2025-04-30 16:53:39,120 - db_helper, INFO - Connection closed
+2025-04-30 16:53:47,558 - db_helper, INFO - Fetching expenses for date: 2024-08-01
+2025-04-30 16:53:47,643 - db_helper, INFO - Connection Successful
+2025-04-30 16:53:47,645 - db_helper, INFO - Connection closed
+2025-04-30 16:53:47,664 - db_helper, INFO - Fetching expense summary from 2024-01-01 to 2024-12-31
+2025-04-30 16:53:47,745 - db_helper, INFO - Connection Successful
+2025-04-30 16:53:47,747 - db_helper, INFO - Connection closed
+2025-04-30 16:53:47,769 - db_helper, INFO - Fetching monthly expense analytics.
+2025-04-30 16:53:47,847 - db_helper, INFO - Connection Successful
+2025-04-30 16:53:47,849 - db_helper, INFO - Connection closed
+Fetching all records from the 'expenses' table
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-09-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-05
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-01
+Connection Successful
+Connection closed
+Fetching expense summary from 2024-08-01 to 2024-08-05
+Connection Successful
+Connection closed
+Fetching all records from the 'expenses' table
+Connection Successful
+Connection closed
+Fetching expenses for date: 2024-08-05
+Connection Successful
+Connection closed
+Fetching all records from the 'expenses' table
+Connection Successful
+Connection closed
+Fetching all records from the 'expenses' table
+Connection Successful
+Connection closed
